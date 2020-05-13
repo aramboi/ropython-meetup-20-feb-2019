@@ -5,7 +5,7 @@ Presentation description:
 
 > How to deploy your very own PaaS on a Digital Ocean droplet using Dokku (https://github.com/dokku/dokku/) a Docker powered "poor mans" mini Heroku bash script. +Demo: setup a simple Python app and deploy it using git (and if we have time automate this using Gitlab CI/CD).
 
-1. Create a new droplet using the `One-click apps` option and choosing `Dokku 0.xx.xx on 18.04`. [This shortcut](https://cloud.digitalocean.com/droplets/new?size=s-1vcpu-1gb&region=fra1&appId=38795781&type=applications&options=install_agent) should autocomplete most of the options you need. (NOTE: while the smallest 1GB instance should be enough to get you started, I recommend going with the at least a 2GB droplet later on).
+1. Create a new droplet using the `One-click apps` option and choosing `Dokku 0.xx.xx on 18.04`. [This shortcut](https://cloud.digitalocean.com/droplets/new?size=s-1vcpu-2gb&region=fra1&appId=48823330&type=applications&options=install_agent&refcode=be156fd97c45) should autocomplete most of the options you need. (NOTE: while the smallest 1GB instance should be enough to get you started, I recommend going with the at least a 2GB droplet later on).
 
 2. Add the `A` DNS record to point a (sub)domain to your new droplet IP address (ex. `ropython.example.com`).
 
