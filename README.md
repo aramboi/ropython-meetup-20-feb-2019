@@ -1,5 +1,5 @@
 # RoPython Cluj Meetup - 26 Feb. 2019
-## Deploying your Python apps using [Dokku](http://dokku.viewdocs.io/dokku/) and [Digital Ocean](https://www.digitalocean.com/)
+## Deploying your Python apps using [Dokku](http://dokku.viewdocs.io/dokku/) and [Digital Ocean](https://www.digitalocean.com/?refcode=be156fd97c45)
 
 Presentation description:
 
